@@ -1,6 +1,6 @@
 {
   "name": "personal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze text/html for key words and phrases and expand their meaning",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "nlp"
   ],
   "author": "Sandro Pasquali <spasquali@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandro-pasquali/personal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandro-pasquali/personal/issues"
+  },
+  "homepage": "https://github.com/sandro-pasquali/personal#readme"
 }
